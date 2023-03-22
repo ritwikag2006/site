@@ -27,7 +27,6 @@ h3 {
 	flex-direction: row;
 	flex-wrap: nowrap;
 	justify-content: space-between;
-	max-width: 50%;
 }
 
 footer {
@@ -39,7 +38,7 @@ footer {
 	font-size: 200%;
 }
 
-.img {
+img {
 	max-width: 30%;
 	height: auto;
 	padding: 5%;
